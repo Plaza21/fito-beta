@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">860671429198-2v08mo3bd67q88vs5fvifbvrqtvcrkct.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">860671429198</string>
+    <string name="google_api_key" translatable="false">AIzaSyBVsdZoKf4HHSeVoHAhm-VQOUJ6iLxjJpU</string>
+    <string name="google_app_id" translatable="false">1:860671429198:android:ed3c67c94ebc5a880a911f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVsdZoKf4HHSeVoHAhm-VQOUJ6iLxjJpU</string>
+    <string name="google_storage_bucket" translatable="false">prova-projectefito.appspot.com</string>
+    <string name="project_id" translatable="false">prova-projectefito</string>
+</resources>
