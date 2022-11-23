@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "fito-beta"
+rootProject.name = "Login"
 include ':app'

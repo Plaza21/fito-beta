@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">fito-beta</string>
+    <string name="app_name">Login</string>
+    <string name="menu_search">Cercador</string>
+    <string name="menu_receptes">Receptes</string>
+    <string name="menu_camara">Camara</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_forum">Forum</string>
+    <string name="title_activity_maps">MapsActivity</string>
+        <string name="first_fragment_label" />
+        <string name="title_activity_info_plantes">InfoPlantes</string>
+        <string name="second_fragment_label">Second Fragment</string>
+        <string name="next">Next</string>
+        <string name="previous">Previous</string>
+        <string name="hello_first_fragment">Hello first fragment</string>
+        <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+        <string name="descripcio">Àloe vera és una planta medicinal refrescant i cicatritzant, originària de l\'Àfrica tropical, on s\'ha utilitzat com a antídot del verí en ferides de llances emmetzinades. Destaca per les seves accions purgante, coláloga, tònic, demulcente, antibacteriana, fungicida, estíptica, sedant i antihelmíntica.</string>
+        <string name="partUtilAV">Gel transparent de la fulla:\nS\'utilitza tipicament per fer medicaments tòpics per infeccions de pell com cremades, ferides, erupcions cotanies o congelació\n\nLatex:\nS\'utilitza com a un producte amb altres ingredients per eliminar l\'estrenyiment.</string>
+        <string name="formula">Carbopol 0,8%\nTrietanolamina 0,7%\nPerfum 0,1% (prebarrejat amb tween 20 0,5%)\nÀloe vera Csp\n\nBarrejar bé tots els ingredients (menys la trietanolamina) fins que es homogenicen i deixar reposar unes hores. Després del temps de repòs, afegir la trietanolamina per a neutralitzar el carbopol i aconseguir la textura gel.\n\nÉs important saber, que el pH adequat per a aquesta formulació és de 6.\n\nAmb aquests senzills passos, hauràs aconseguit elaborar de forma molt senzilla un gel amb infinitat d\'usos i propietats per a tot tipus de pells.</string>
+        <string name="cultius">Degut a que l\'aloe Vera prové de llocs calurosos i desertics el seu cultiu requereix que les temperatures minimes no baixin de 0 graus. Geledes intensives o geledes dèbils però repetides, causen danys ja que no tolera el fred, tampoc tolera l\'humitat, ni en la terra ni en la planta.\nEs pot ubicar en semiombra.</string>
 </resources>

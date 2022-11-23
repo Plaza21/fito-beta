@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/menu_search"
+        android:icon="@drawable/search"/>
+
+    <item
+        android:id="@+id/item2"
+        android:title="@string/menu_receptes"
+        android:icon="@drawable/receptes"/>
+    <item
+        android:id="@+id/item3"
+        android:title="@string/menu_camara"
+        android:icon="@drawable/camara"/>
+    <item
+        android:id="@+id/item4"
+        android:title="@string/menu_maps"
+        android:icon="@drawable/maps"/>
+    <item
+        android:id="@+id/item5"
+        android:title="@string/menu_forum"
+        android:icon="@drawable/forum"/>
+
+
+</menu>

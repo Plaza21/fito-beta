@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "860671429198",
+    "project_id": "prova-projectefito",
+    "storage_bucket": "prova-projectefito.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860671429198:android:ed3c67c94ebc5a880a911f",
+        "android_client_info": {
+          "package_name": "com.ppalacios.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860671429198-2v08mo3bd67q88vs5fvifbvrqtvcrkct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVsdZoKf4HHSeVoHAhm-VQOUJ6iLxjJpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860671429198-2v08mo3bd67q88vs5fvifbvrqtvcrkct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

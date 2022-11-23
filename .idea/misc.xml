@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/drawable/button_rounded.xml" value="0.1" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/drawable/button_rounded_border.xml" value="0.2265" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/drawable/rounded.xml" value="0.121" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/drawable/textview_rounded_border.xml" value="0.1" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/drawable/toast_background.xml" value="0.1" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_camera.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_info_plantes.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/activity_wiki_plantes.xml" value="0.264" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/layout/listview_textcolor.xml" value="0.4" />
+        <entry key="..\:/Users/Pau Palacios/AndroidStudioProjects/Login/app/src/main/res/menu/menu.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/drawable/button_invisible.xml" value="0.2545" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/drawable/button_rounded.xml" value="0.2555" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/layout/activity_camera.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Pau Palacios/GitProjects/AndroidFitoBeta/app/src/main/res/layout/activity_search.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
