@@ -16,21 +16,6 @@
         app:itemIconTint="@color/nav_color"
         app:itemTextColor="@color/nav_color"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:menu="@menu/menu">
-
-        <Button
-            android:id="@+id/bttnMaps"
-            android:layout_width="59dp"
-            android:layout_height="66dp"
-            android:translationX="265dp"
-            android:background="@drawable/button_invisible"/>
-
-        <Button
-            android:id="@+id/bttnCamera"
-            android:layout_width="59dp"
-            android:layout_height="66dp"
-            android:background="@drawable/button_invisible"
-            android:translationX="185dp" />
-    </com.google.android.material.bottomnavigation.BottomNavigationView>
+        app:menu="@menu/menu"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

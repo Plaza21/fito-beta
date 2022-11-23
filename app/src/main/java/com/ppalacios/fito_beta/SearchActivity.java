@@ -38,8 +38,6 @@ public class SearchActivity extends AppCompatActivity {
         SearchView = findViewById(R.id.SearchView);
         plantList = findViewById(R.id.plantList);
 
-        bttnMaps = findViewById(R.id.bttnMaps);
-
         arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,list);
 
         plantList.setAdapter(arrayAdapter);
@@ -71,12 +69,23 @@ public class SearchActivity extends AppCompatActivity {
             }
         });
 
+/*
         bttnMaps.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                startActivity(new Intent(SearchActivity.this, MapsActivity.class));
+                startActivity(new Intent(SearchActivity.this, Camera.class));
             }
         });
+
+ */
+/*
+        bttnCamera.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(SearchActivity.this, Camera.class));
+            }
+        });
+        */
 
        /* arrayAdapter = new ArrayAdapter<String>(this,
                 R.layout.listview_textcolor, list);
