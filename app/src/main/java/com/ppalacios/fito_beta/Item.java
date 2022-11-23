@@ -1,4 +1,4 @@
-package com.iplaza.fito_beta;
+package com.ppalacios.fito_beta;
 
 public class Item {
     private String ScientificName;

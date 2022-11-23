@@ -1,4 +1,4 @@
-package com.ppalacios.login;
+package com.ppalacios.fito_beta;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,8 @@ import android.util.Patterns;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+
+import com.ppalacios.fito_beta.R;
 
 public class Register extends AppCompatActivity {
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.ppalacios.login">
+    package="com.ppalacios.fito_beta">
 
     <uses-feature
         android:name="android.hardware.camera"
@@ -19,10 +19,10 @@
         tools:targetApi="31">
 
         <activity
-            android:name=".WikiPlantes"
+            android:name="com.ppalacios.fito_beta.WikiPlantes"
             android:exported="false" />
         <activity
-            android:name=".Camera"
+            android:name="com.ppalacios.fito_beta.Camera"
             android:exported="false" />
         <!--
              TODO: Before you run your application, you need a Google Maps API key.
@@ -40,17 +40,17 @@
             android:value="AIzaSyAMGlDOfXhREwWW1g75r2IHKupHVyvx7og" />
 
         <activity
-            android:name=".MapsActivity"
+            android:name="com.ppalacios.fito_beta.MapsActivity"
             android:exported="false"
             android:label="@string/title_activity_maps" />
         <activity
-            android:name=".Register"
+            android:name="com.ppalacios.fito_beta.Register"
             android:exported="false" />
         <activity
-            android:name=".Menu"
+            android:name="com.ppalacios.fito_beta.Menu"
             android:exported="false" />
         <activity
-            android:name=".Login"
+            android:name="com.ppalacios.fito_beta.Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -59,10 +59,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".InfoPlantes"
+            android:name="com.ppalacios.fito_beta.InfoPlantes"
             android:exported="false" />
         <activity
-            android:name=".SearchActivity"
+            android:name="com.ppalacios.fito_beta.SearchActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

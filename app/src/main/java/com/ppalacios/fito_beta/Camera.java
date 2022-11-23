@@ -1,12 +1,11 @@
-package com.ppalacios.login;
+package com.ppalacios.fito_beta;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
-import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.widget.Button;
+
+import com.ppalacios.fito_beta.R;
 
 public class Camera extends AppCompatActivity {
 

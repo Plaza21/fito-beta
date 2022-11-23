@@ -1,4 +1,4 @@
-package com.ppalacios.login;
+package com.ppalacios.fito_beta;
 
 import android.content.Context;
 

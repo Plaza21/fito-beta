@@ -1,4 +1,4 @@
-package com.ppalacios.login;
+package com.ppalacios.fito_beta;
 
 import androidx.fragment.app.FragmentActivity;
 
@@ -10,7 +10,8 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.ppalacios.login.databinding.ActivityMapsBinding;
+import com.ppalacios.fito_beta.R;
+import com.ppalacios.fito_beta.databinding.ActivityMapsBinding;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 

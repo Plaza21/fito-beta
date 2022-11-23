@@ -1,4 +1,4 @@
-package com.ppalacios.login;
+package com.ppalacios.fito_beta;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.ppalacios.fito_beta.R;
 
 public class Login extends AppCompatActivity {
 
