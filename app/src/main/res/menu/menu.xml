@@ -20,8 +20,8 @@
         android:icon="@drawable/maps"/>
     <item
         android:id="@+id/item5"
-        android:title="@string/menu_forum"
-        android:icon="@drawable/forum"/>
+        android:title="Afegir"
+        android:icon="@drawable/afegir"/>
 
 
 </menu>
