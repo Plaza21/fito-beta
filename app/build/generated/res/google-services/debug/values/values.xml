@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">860671429198-2v08mo3bd67q88vs5fvifbvrqtvcrkct.apps.googleusercontent.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">860671429198</string>
-    <string name="google_api_key" translatable="false">AIzaSyBVsdZoKf4HHSeVoHAhm-VQOUJ6iLxjJpU</string>
-    <string name="google_app_id" translatable="false">1:860671429198:android:ed3c67c94ebc5a880a911f</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBVsdZoKf4HHSeVoHAhm-VQOUJ6iLxjJpU</string>
-    <string name="google_storage_bucket" translatable="false">prova-projectefito.appspot.com</string>
-    <string name="project_id" translatable="false">prova-projectefito</string>
+    <string name="default_web_client_id" translatable="false">877947280949-oqti4rhhkidqsn5jr6re1fhjpb9okcm8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">877947280949</string>
+    <string name="google_api_key" translatable="false">AIzaSyBULQ5Q93PcipqdLwQkPRXoCNPmoz2ndoQ</string>
+    <string name="google_app_id" translatable="false">1:877947280949:android:b572b9389c75e3ba81db7c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBULQ5Q93PcipqdLwQkPRXoCNPmoz2ndoQ</string>
+    <string name="google_storage_bucket" translatable="false">fito-beta.appspot.com</string>
+    <string name="project_id" translatable="false">fito-beta</string>
 </resources>
