@@ -13,13 +13,11 @@
     <item
         android:id="@+id/item3"
         android:title="@string/menu_camara"
-        android:icon="@drawable/camara"
-        android:actionLayout="@layout/activity_camera"/>
+        android:icon="@drawable/camara"/>
     <item
         android:id="@+id/item4"
         android:title="@string/menu_maps"
-        android:icon="@drawable/maps"
-        android:actionLayout="@layout/activity_maps"/>
+        android:icon="@drawable/maps" />
     <item
         android:id="@+id/item5"
         android:title="Afegir"

@@ -32,8 +32,19 @@
         android:backgroundTintMode="src_atop"
         android:textFilterEnabled="false" />
 
-    <include
-        android:id="@+id/innerLayout"
-        layout="@layout/activity_menu" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomAppBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:translationY="12dp"
+        app:itemBackground="@color/green"
+        app:itemIconTint="@color/nav_color"
+        app:itemTextColor="@color/nav_color"
+        app:menu="@menu/menu">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 
 </LinearLayout>

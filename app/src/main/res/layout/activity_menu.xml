@@ -7,6 +7,12 @@
     android:backgroundTint="#00FFFFFF"
     tools:context="com.ppalacios.fito_beta.Menu">
 
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottomAppBar"
+        android:id="@+id/parent_container"/>
+
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomAppBar"
         android:layout_width="match_parent"
@@ -16,6 +22,8 @@
         app:itemIconTint="@color/nav_color"
         app:itemTextColor="@color/nav_color"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:menu="@menu/menu"/>
+        app:menu="@menu/menu">
+
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
